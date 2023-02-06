@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+:root{
+    --color1: #fff159;
+    --color2: #3483fa;
+}
+
+.bg-color{
+    background-color: var(--color1);
+}
+.tx-color{
+    color: var(--color1);
+}
+.bg-color2{
+    background-color: var(--color2);
+}
+.tx-color2{
+    color: var(--color2);
+}
+
+
